@@ -1,7 +1,7 @@
-# RiceENCODE datasets pipeline
-## What is RiceENCODE:
-<br>The application of Hi-C, ChIA-PET, and other chromosome conformation capture technologies in plants in recent years has have made a the research on the spatial structure of plant genomes more and more important. With the continuous increase of a large number of plant chromosome interaction data, how to query the epigenetic modification and interaction information efficiently and quickly has become a major problem.Here we combine the published three-dimensional interactive data ChIA-PET, Hi-C and the epigenomic datasets (ChIP-seq, ATAC-seq,MNase-seq, FAIRE-seq, WGBS, RNA-seq and ncRNA-seq) to construct a comprehensive rice Encyclopedia of DNA Elements database (RiceENCODE). This database contains 937 datasets, which is the largest one for rice epigenomics up to our best knowledge, which can help us to outline the rice epigenome in a comprehensive way, and provide an important platform for studying rice molecular breeding, genetic mechanisms, tissue specificities and subgroup properties in epigenetic regulation.</br>
-### The RiceENCODE pipeline test in following dependencies :
+# AraENCODE-pipeline
+## What is AraENCODE:
+<br>  Here we combine the published Arabidopsis epigenomic datasets (ChIP-seq, ATAC-seq, MNase-seq, BS-seq, RNA-seq and ncRNA-seq) and 3D genome data to construct a comprehensive Arabidopsis thaliana Encyclopedia of DNA Elements Database (AraENCODE). This database contains ~1800 datasets. The Arabidopsis TAIR10 is uniformly selected as the reference genome. So, it's convenient for the display and comparison of data. AraENCODE database mainly includes seven search functions, including "Histone Modification Search", "Transcriptome Search","Open Chromatin Region Search", "DNA methylation Search", "3D Genome", "Chromatin State" and "Wildtype vs Mutant Search", and they help database users to quickly search for targeted epigenetics. This also shows the epigenetic landscape of Arabidopsis in AraENCODE database from five aspects: histone modification, transcriptional expression, open chromatin state, DNA methylation degree and mutant difference. AraENCODE database has also equipped with WashU Epigenome Browser, it can show the standardized Arabidopsis datasets more intuitively.</br>
+### The AraENCODE pipeline have following dependencies :
 * Python (2.7)
 * samtools (>1.9)
 * ChIA-PET tools (v3.0)
@@ -16,5 +16,5 @@
 * HiC-Pro(2.11.4)
 * BatMeth2(2.01)
 <br></br>
-### RiceENCODE website:
-[RiceENCODE http://glab.hzau.edu.cn/RiceENCODE/](http://glab.hzau.edu.cn/RiceENCODE/)
+### AraENCODE website:
+[AraENCODE http://glab.hzau.edu.cn/AraENCODE/](http://glab.hzau.edu.cn/AraENCODE/)
