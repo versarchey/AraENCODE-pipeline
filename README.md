@@ -4,7 +4,7 @@
 ### The AraENCODE pipeline have following dependencies :
 * Python (2.7)
 * samtools (>1.9)
-* ChIA-PET tools (V3 Mar 21, 2023) 
+* [ChIA-PET tools (V3 Mar 21, 2023)])(https://github.com/GuoliangLi-HZAU/ChIA-PET_Tool_V3/commits/master)
 * BWA(0.7.17)
 * MACS2(2.1.1)
 * deepTools(2.5.3)
