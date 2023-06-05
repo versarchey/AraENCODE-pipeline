@@ -1,5 +1,5 @@
 # A Comprehensive Epigenomic Database of Arabidopsis Thaliana
-![image]([https://github.com/versarchey/AraENCODE-pipeline/main.png](https://github.com/versarchey/AraENCODE-pipeline/blob/main/main.png))
+![image](https://github.com/versarchey/AraENCODE-pipeline/blob/main/main.png)
 ## AraENCODE
 [AraENCODE website](http://glab.hzau.edu.cn/AraENCODE/) <br>
 [AraENCODE tutorial](http://glab.hzau.edu.cn/AraENCODE/pages/tutorial.html) <br>
