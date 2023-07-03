@@ -25,7 +25,11 @@
 * [BatMeth2 (v2.01)](https://github.com/GuoliangLi-HZAU/BatMeth2) for Bisulfite DNA Methylation Data Analysis with Indel-sensitive Mapping
 * [HiGlass Browser (v1.11)](https://docs.higlass.io/)
 * [WashU epigenome browser (v54.0.2)](http://epigenomegateway.wustl.edu/)
+## Cite us
+[Wang Z., Liu M., Lai F., Fu Q., Xie L., Fang Y., Zhou Q., and Li G. (2023). AraENCODE: a comprehensive epigenomic database of Arabidopsis thaliana. Mol. Plant. doi: https://doi.org/10.1016/j.molp.2023.06.005.](https://doi.org/10.1016/j.molp.2023.06.005)
 
+## Lab Homepage
+[Welcome to Guoliang's Lab Website of Bioinformatics](http://glab.hzau.edu.cn/)
 <br></br>
 
 
